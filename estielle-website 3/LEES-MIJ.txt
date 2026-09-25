@@ -1,0 +1,40 @@
+WEBSITE HUIDINSTITUUT ESTIËLLE
+==============================
+
+Wat zit erin?
+-------------
+- index.html  -> de volledige pagina met alle teksten, prijzen en openingsuren
+- style.css   -> alle kleuren en vormgeving
+- assets/     -> alle foto's en het logo
+
+Hoe bekijk ik de website?
+-------------------------
+Dubbelklik op "index.html". De website opent meteen in je browser.
+Je hebt hier geen enkel programma voor nodig.
+
+Hoe pas ik iets aan?
+--------------------
+Open "index.html" met Kladblok (Windows) of Teksteditor (Mac).
+Boven elk onderdeel staat een opmerking, bijvoorbeeld:
+
+   <!-- ============ PRIJZEN ============ -->
+
+Zoek de tekst of de prijs die je wil veranderen, typ de nieuwe tekst,
+sla op en ververs de pagina in je browser.
+
+Kleuren aanpassen doe je bovenaan in "style.css", bij de regels
+die beginnen met --primary, --bg-main, enzovoort.
+
+Foto's vervangen
+----------------
+Zet je nieuwe foto in de map "assets" en geef die exact dezelfde naam
+als de oude foto (bijvoorbeeld huidverbetering.jpg).
+
+Online zetten
+-------------
+Upload de hele map (index.html, style.css en assets) naar je webhoster.
+
+Contact op de site
+------------------
+E-mail: huidinstituut.estielle@hotmail.com
+Instagram: @huidinstituut_estielle
